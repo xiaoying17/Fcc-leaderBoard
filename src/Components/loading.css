@@ -1,0 +1,16 @@
+.userimage{
+  width: 30px;
+  border: 2px solid #006400;
+  border-radius: 4px;
+  max-height: 40px;
+  margin-right: 4px;
+}
+
+
+  
+
+.sorted:after{
+	content: ' \25bc';
+  font-size: 14px;
+}
+  
